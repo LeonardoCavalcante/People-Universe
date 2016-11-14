@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Delius+Unicase');
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');
+
+body{
+    background-image: url(imgs/pexels-photo-107956.jpeg);
+
+}
+
+h1{
+    text-align: center;
+}
+#Cabeçalho{
+
+    font-family: 'Bowlby One SC', cursive;
+    color: #ffffff;
+    font-size: 200%;
+    letter-spacing: 2px;
+    position: relative;
+    margin-bottom: 100px;
+    margin-top: 60%;
+}
