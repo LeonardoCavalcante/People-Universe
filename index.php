@@ -11,7 +11,7 @@
     <span id="Cabeçalho"><h1>People Universe</h1></span>
 
 </header>
-<span id="titulo2"><h6>O ponto de partida da evolução<span class="blink"> _</span></h6></span>
+<span id="titulo2"><h6>O ponto de partida da evolução _</h6></span>
 
 
 
