@@ -10,20 +10,19 @@
 <header id="cabeçalho">//Cabeçalho
     <span id="Cabeçalho"><h1>People Universe</h1></span>
 </header>
-<<<<<<< HEAD
+
 <span id="titulo2"><h6>O ponto de partida da evolução<span class="blink"> _</span></h6></span>
 
 <section>
     <fieldset>
-        <img src="
+        <img src="imgs/planeta.png>
         <form id="login" action="#" method="post">
             
 
         </form>
     </fieldset>
 </section>
-=======
->>>>>>> origin/master
+
 
 <header id="subtitulo">
     <span id="titulo2"><h6>O ponto de partida da evolução _</h6></span>
