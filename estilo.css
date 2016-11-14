@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Delius+Unicase');
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono');
 @import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');
 
 body{
     background-image: url(imgs/background.jpg);
+
 }
 
 h1{
@@ -13,11 +14,19 @@ h1{
     color: #ffffff;
     font-size: 200%;
     letter-spacing: 2px;
-    margin-top: 60%;
+
+}
+#titulo2{
+    position: relative;
+    font-family: 'Share Tech Mono', monospace;
+    color: #ffffff;
+    text-align: center;
+    font-size: 200%;
+
 }
 header{
 
     margin-left: 20%;
     margin-right: 20%;
-    margin-bottom: 40%;
 }
+
