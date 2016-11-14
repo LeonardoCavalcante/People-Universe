@@ -14,6 +14,7 @@ h1{
     color: #ffffff;
     font-size: 200%;
     letter-spacing: 2px;
+    text-decoration: blink;
 
 }
 #titulo2{
@@ -30,3 +31,6 @@ header{
     margin-right: 20%;
 }
 
+.blink{ 
+    text-decoration: blink; 
+}
