@@ -3,19 +3,21 @@
 
 body{
     background-image: url(imgs/pexels-photo-107956.jpeg);
-
 }
 
 h1{
     text-align: center;
 }
 #Cabeçalho{
-
     font-family: 'Bowlby One SC', cursive;
     color: #ffffff;
     font-size: 200%;
     letter-spacing: 2px;
-    position: relative;
-    margin-bottom: 100px;
     margin-top: 60%;
+}
+header{
+    background-color: rgba(255,255,255,0.4);
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 40%;
 }

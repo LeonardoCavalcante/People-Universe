@@ -9,7 +9,12 @@
 <body>
 <header>
   <span id="Cabeçalho"><h1>People Universe</h1></span>
-    <hr>
+
 </header>
+
+
+<footer>
+    Todos os
+</footer>
 </body>
 </html>
