@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');
 
 body{
-    background-image: url(imgs/pexels-photo-107956.jpeg);
+    background-image: url(imgs/background.jpg);
 }
 
 h1{
@@ -16,7 +16,7 @@ h1{
     margin-top: 60%;
 }
 header{
-    background-color: rgba(255,255,255,0.4);
+    
     margin-left: 20%;
     margin-right: 20%;
     margin-bottom: 40%;
