@@ -31,18 +31,20 @@ h1{
 
 
 footer{
+    color:white;
+    margin-top:4%; 
     margin-left:30%; 
     width:40%; 
     text-align:center;
-    background-color:white;
-    opacity:0.4;
+    /*background-color:white;*/
+    opacity:0.9;
        
 }
 fieldset#login{
     text-align: center;
     margin: auto;
-   width: 20%;
-   opacity: 0.7;
+    width: 20%;
+    opacity: 0.7;
     background-image: linear-gradient(to bottom, #fff, #ccc);
     border: none;
 }
