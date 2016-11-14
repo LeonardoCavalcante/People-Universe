@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Delius+Unicase');
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono');
 @import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');
 
 body{
@@ -8,16 +8,32 @@ body{
 h1{
     text-align: center;
 }
+
 #Cabeçalho{
     font-family: 'Bowlby One SC', cursive;
     color: #ffffff;
     font-size: 200%;
     letter-spacing: 2px;
-    margin-top: 60%;
 }
-header{
 
+#titulo2{
+    position: relative;
+    font-family: 'Share Tech Mono', monospace;
+    color: #ffffff;
+    text-align: center;
+    font-size: 200%;
+}
+
+header{
     margin-left: 20%;
     margin-right: 20%;
-    margin-bottom: 40%;
+}
+
+footer{
+    margin-left:30%; 
+    width:40%; 
+    text-align:center;
+    background-color:white;
+    opacity:0.4;
+       
 }
