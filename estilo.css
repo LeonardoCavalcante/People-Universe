@@ -3,32 +3,36 @@
 
 body{
     background-image: url(imgs/background.jpg);
-
 }
 
 h1{
     text-align: center;
 }
+
 #Cabeçalho{
     font-family: 'Bowlby One SC', cursive;
     color: #ffffff;
     font-size: 200%;
     letter-spacing: 2px;
-    
-
 }
+
 #titulo2{
     position: relative;
     font-family: 'Share Tech Mono', monospace;
     color: #ffffff;
     text-align: center;
     font-size: 200%;
-
 }
-header{
 
+header{
     margin-left: 20%;
     margin-right: 20%;
 }
 
-
+footer{
+    margin-left:30%; 
+    width:40%; 
+    text-align:center;
+    background-color:white;
+    opacity:0.4;   
+}
