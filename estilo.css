@@ -14,12 +14,12 @@ h1{
 #Cabeçalho{
     font-family: 'Bowlby One SC', cursive;
     color: #ffffff;
-    font-size: 200%;
+    font-size: 125%;
     letter-spacing: 2px;
 
 }
 #Cabeçalho,#titulo2:hover{
-    text-shadow:aqua 0px -4px 15px;
+    text-shadow:aqua 0px -2px 15px;
 }
 
 #titulo2{
@@ -27,14 +27,14 @@ h1{
     font-family: 'Share Tech Mono', monospace;
     color: #ffffff;
     text-align: center;
-    font-size: 200%;
+    font-size: 130%; 
 }
 
 
 
 footer{
     color:white;
-    margin-top:4%; 
+    margin-top:9%; 
     margin-left:30%; 
     width:40%; 
     text-align:center;
@@ -45,7 +45,7 @@ footer{
 fieldset#login{
     text-align: center;
     margin: auto;
-    width: 20%;
+    width: 10%;
     opacity: 0.7;
     background-image: linear-gradient(to bottom, #fff, #999);
     border: none;
@@ -56,7 +56,7 @@ fieldset#login{
 #entrar{
     color: #fff;
     font-family: 'Orbitron', sans-serif;
-    font-size: 200%;
+    font-size: 100%;
     background-image: linear-gradient(to bottom, #999,#483D8B);
     padding-left: 20%;
     padding-right:20%;
@@ -65,8 +65,8 @@ fieldset#login{
 
 }
 .nomedeuser{
-    width: 270px;
-    height: 50px;
+    width:170px;
+    height: 20px;
     border-radius: 30px;
     text-align: center;
     border-color: #ccc;
@@ -80,7 +80,7 @@ fieldset#login{
     border:none;
     border-radius: 30px;
     height: 50px;
-    width: 300px;
+    width: 200px;
     color: white;
     font-family: 'Quicksand', sans-serif;
     font-size: 15pt;
