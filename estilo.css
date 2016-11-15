@@ -88,6 +88,8 @@ fieldset#login{
 #enviar:hover{
     background-image: linear-gradient(to bottom, #999,#4169E1);
 }
-#esqueceuasenha{
-    text-decoration: none;
+
+#esqueceuasenha a{
+    font-family: 'Quicksand', sans-serif;
+    text-decoration:none; 
 }
