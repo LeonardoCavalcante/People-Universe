@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono');
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
 @import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 body{
     background-image: url(imgs/background.jpg);
@@ -45,12 +47,47 @@ fieldset#login{
     margin: auto;
     width: 20%;
     opacity: 0.7;
-    background-image: linear-gradient(to bottom, #fff, #ccc);
+    background-image: linear-gradient(to bottom, #fff, #999);
     border: none;
 }
-fieldset#login:hover{
+#login:hover{
     opacity: 1;
 }
 #entrar{
-    color: #000;
+    color: #fff;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 200%;
+    background-image: linear-gradient(to bottom, #999,#483D8B);
+    padding-left: 20%;
+    padding-right:20%;
+    text-align: left;
+
+
+}
+.nomedeuser{
+    width: 270px;
+    height: 50px;
+    border-radius: 30px;
+    text-align: center;
+    border-color: #ccc;
+    border: none;
+    font-size: 15pt;
+    font-family: 'Quicksand', sans-serif;
+
+}
+#enviar{
+    background-image: linear-gradient(to bottom, #999,#483D8B);
+    border:none;
+    border-radius: 30px;
+    height: 50px;
+    width: 300px;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15pt;
+}
+#enviar:hover{
+    background-image: linear-gradient(to bottom, #999,#4169E1);
+}
+#esqueceuasenha{
+    text-decoration: none;
 }

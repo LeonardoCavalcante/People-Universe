@@ -20,22 +20,23 @@
     <fieldset id="login">
         <img src="imgs/planeta.png" id="icone">
         <br>
-        <span id="entrar">Entrar</span>
+        <span id="entrar">   Entrar   </span>
+        <br><br><br>
         <form id="login" action="#" method="post">
-            
+         <input type="text" class="nomedeuser" placeholder="Digite seu Login" required pattern="[A-Z]{12}" title="Ops ! Login Inválido ou vazio !">
+            <br><br><br>
+            <input type="password" class="nomedeuser" placeholder="Digite sua senha" required pattern="[A-Z]{12}" title="Ops ! Login Inválido ou vazio !">
+            <br><br><br>
+            <input type="submit" name="Logar-se" id="enviar">
 
         </form>
+        <span id="esqueceuasenha"><a href="#">Esqueceu sua senha ?</a></span>
     </fieldset>
 </section>
 
 
 
 
-
-
-<footer>
-    Todos os
-</footer>
 
 </body>
 </html>
